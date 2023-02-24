@@ -1,7 +1,7 @@
 {
-  "name": "@test/api-plugin-product-field-updation",
+  "name": "@shoaibfarooq3/api-plugin-car-category",
   "description": "Boilerplate Example plugin for the Reaction API",
-  "label": "Product Plugin Updation",
+  "label": "Car Plugin Category",
   "version": "3.0.0-development",
   "main": "index.js",
   "type": "module",
